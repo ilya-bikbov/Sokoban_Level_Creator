@@ -57,7 +57,6 @@ CONFIG(release, debug|release) {
 
 }
 win32 {
-    copyToDestdir(libs/*)
+    copyToDestdir(libs_win32/*)
 }
-
 
