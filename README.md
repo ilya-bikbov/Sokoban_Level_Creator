@@ -1,19 +1,19 @@
 # Sokoban Level Creator
-###### Version for Linux 
+###### Version for Windows 
 #
 ## Requirements
 My computer had the following stuff:
 
-*   Ubuntu 20.04
-*   Qt 4.8.7
-*   GCC 9.3.0
+*   Windows 10
+*   Qt 4.8.4
+*   Mingw (GCC 4.4)?
 
 ## How to build
-1.  go to the root of sources folder
-2.  qmake Sokoban_Level_Creator.pro
-3.  make
+1.  
+2.  
+3.  
 
 ## How to run the creator
-In the root of sources folder:
 
-`export QT_X11_NO_MITSHM=1; ./Sokoban_Level_Creator`
+
+
