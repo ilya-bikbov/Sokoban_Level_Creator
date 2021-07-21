@@ -1,0 +1,9 @@
+.obj/
+.moc/
+.ui/
+bin/
+debug/
+release/
+*.pro.user
+Makefile*
+object_script*
